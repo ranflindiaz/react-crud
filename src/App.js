@@ -1,0 +1,13 @@
+import React from 'react';
+
+const App = () => {
+  return (
+    <div className="container mt-5">
+      <h1>Tareas</h1>
+      <hr/>
+       
+    </div>
+  );
+}
+
+export default App;
